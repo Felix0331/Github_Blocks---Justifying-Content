@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     background-color: darkgray;
+    width: 90%;
 }
 .flexing{
     flex-wrap: wrap;
